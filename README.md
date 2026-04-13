@@ -1,5 +1,7 @@
 # Portable Design Process Kit
 
+Wireframe-first, prototype-first design process kit for JavaScript/TypeScript web and mobile apps.
+
 This folder is an exportable design process for JavaScript/TypeScript products before full UI implementation.
 
 It is intended for:
